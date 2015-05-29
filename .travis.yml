@@ -7,4 +7,4 @@ deploy:
     secure: 4fb28509-7fb9-40de-9d0a-87a0ea58b808
   app: morning-journey-9144
   on:
-    repo: filipeguelber/node-app
+    repo: andrecrysthyan/node-app
